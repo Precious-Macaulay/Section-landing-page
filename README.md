@@ -10,6 +10,7 @@ content that is added to the page.
   - [Table of contents](#table-of-contents)
   - [Usage](#usage)
     - [Locally](#locally)
+    - [Live link](#live-link)
   - [Development](#development)
 
 ## Usage
@@ -19,6 +20,9 @@ content that is added to the page.
 ### Locally
 
 Put these files in a directory on your computer. Then, using your browser, navigate to file:///path/to/file/index.html to view the simple landing page.
+
+### Live link
+To view in browser click [here](https://section-landing-page.netlify.app/)
 
 ## Development
 
